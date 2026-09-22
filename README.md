@@ -7,7 +7,7 @@
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
 | ★ | [Jeux logiques](http://alain.troesch.free.fr/ProblemesMPSI/prob032.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob032.pdf#page=3) | logique : traduction d’énoncés, déductions |
-| ★–★★ | [Logique](https://www.bourrigan.fr/data/td02-logique.pdf) · [indications](https://www.bourrigan.fr/data/td02-logique-indications.pdf) | logique : quantificateurs, implications |
+| ★–★★ | [Logique](https://www.bourrigan.fr/data/td02-logique.pdf) · [corrigé zakito](corriges/002/corrige-zakito.pdf) | logique : quantificateurs, implications |
 | ★★ | [Itérations](http://christophebertault.fr/documents/dm/DM%20-%20Iterations.pdf) · [corrigé zakito](corriges/180/corrige-zakito.pdf) | ensembles : itérations d’applications |
 | ★★ | [Le problème de Joséphus](http://alain.troesch.free.fr/ProblemesMPSI/prob031.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob031.pdf#page=3) | combinatoire : récurrence, élimination circulaire |
 | ★★–★★★ | [Ensembles et applications](https://www.bourrigan.fr/data/td03-ensembles-applications.pdf) · [indications](https://www.bourrigan.fr/data/td03-ensembles-applications-indications.pdf) | ensembles : images, préimages, bijections |
@@ -59,7 +59,7 @@
 |:---:|---|---|
 | ★★ | [La série exponentielle](http://alain.troesch.free.fr/ProblemesMPSI/prob067.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob067.pdf#page=2) | analyse : exponentielle, encadrement de sommes |
 | ★★–★★★ | [Dérivation](https://www.bourrigan.fr/data/td17-derivation.pdf) · [indications](https://www.bourrigan.fr/data/td17-derivation-indications.pdf) | analyse : dérivées, accroissements finis |
-| ★★–★★★ | [Fonctions convexes](https://www.bourrigan.fr/data/td18-fonctions-convexes.pdf) · [indications](https://www.bourrigan.fr/data/td18-fonctions-convexes-indications.pdf) | analyse : convexité, inégalités |
+| ★★–★★★ | [Fonctions convexes](https://www.bourrigan.fr/data/td18-fonctions-convexes.pdf) · [corrigé zakito](corriges/018/corrige-zakito.pdf) | analyse : convexité, inégalités |
 | ★★–★★★ | [Fonctions réelles](https://www.bourrigan.fr/data/td08-fonctions-reelles.pdf) · [indications](https://www.bourrigan.fr/data/td08-fonctions-reelles-indications.pdf) | analyse : variations, fonctions usuelles |
 | ★★–★★★ | [Limites, continuité](https://www.bourrigan.fr/data/td16-limites-continuite.pdf) · [indications](https://www.bourrigan.fr/data/td16-limites-continuite-indications.pdf) | analyse : limites, continuité |
 | ★★★ | [Fonction de Weierstrass](http://alain.troesch.free.fr/ProblemesMPSI/prob059.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob059.pdf#page=2) | analyse : continuité sans dérivabilité |
@@ -138,8 +138,8 @@
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
 | ★★ | [Polynômes de Lagrange (fiche)](https://maths-france.fr/wp-content/uploads/polynomes_lagrange_fiche.pdf) | algèbre : interpolation de Lagrange |
-| ★★–★★★ | [Arithmétique des polynômes](https://www.bourrigan.fr/data/td24-arithmetique-polynomes.pdf) · [indications](https://www.bourrigan.fr/data/td24-arithmetique-polynomes-indications.pdf) | algèbre : divisibilité des polynômes |
-| ★★–★★★ | [Fractions rationnelles](https://www.bourrigan.fr/data/td25-fractions-rationnelles.pdf) · [indications](https://www.bourrigan.fr/data/td25-fractions-rationnelles-indications.pdf) | algèbre : fractions rationnelles, éléments simples |
+| ★★–★★★ | [Arithmétique des polynômes](https://www.bourrigan.fr/data/td24-arithmetique-polynomes.pdf) · [corrigé zakito](corriges/024/corrige-zakito.pdf) | algèbre : divisibilité des polynômes |
+| ★★–★★★ | [Fractions rationnelles](https://www.bourrigan.fr/data/td25-fractions-rationnelles.pdf) · [corrigé zakito](corriges/025/corrige-zakito.pdf) | algèbre : fractions rationnelles, éléments simples |
 | ★★–★★★ | [Polynômes](https://www.bourrigan.fr/data/td13-polynomes.pdf) · [indications](https://www.bourrigan.fr/data/td13-polynomes-indications.pdf) | algèbre : polynômes, racines |
 | ★★★ | [Polynômes de Tchebychev (fiche)](https://maths-france.fr/wp-content/uploads/polynomes_tchebychev_fiche.pdf) | algèbre : Tchebychev, récurrences |
 | ★★★ | [Polynômes de Bernoulli](https://www.bourrigan.fr/data/dm12-bernoulli-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/dm12-bernoulli-corrige.pdf) | algèbre : Bernoulli, sommes de puissances |
@@ -161,7 +161,7 @@
 |:---:|---|---|
 | ★★–★★★ | [Applications linéaires](https://www.bourrigan.fr/data/td21-applications-lineaires.pdf) · [indications](https://www.bourrigan.fr/data/td21-applications-lineaires-indications.pdf) | algèbre : noyau, image |
 | ★★–★★★ | [Dimension](https://www.bourrigan.fr/data/td22-dimension.pdf) · [indications](https://www.bourrigan.fr/data/td22-dimension-indications.pdf) | algèbre : bases, dimension |
-| ★★–★★★ | [Espaces vectoriels](https://www.bourrigan.fr/data/td20-espaces-vectoriels.pdf) · [indications](https://www.bourrigan.fr/data/td20-espaces-vectoriels-indications.pdf) | algèbre : sous-espaces, familles de vecteurs |
+| ★★–★★★ | [Espaces vectoriels](https://www.bourrigan.fr/data/td20-espaces-vectoriels.pdf) · [corrigé zakito](corriges/020/corrige-zakito.pdf) | algèbre : sous-espaces, familles de vecteurs |
 | ★★–★★★ | [Matrices](https://www.bourrigan.fr/data/td06-matrices.pdf) · [corrigé zakito](corriges/006/corrige-zakito.pdf) | algèbre : produits et puissances de matrices |
 | ★★–★★★ | [Représentation matricielle des applications linéaires](https://www.bourrigan.fr/data/td23-representation-matricielle.pdf) · [indications](https://www.bourrigan.fr/data/td23-representation-matricielle-indications.pdf) | algèbre : matrices d’applications linéaires |
 | ★★–★★★ | [Révisions : espaces vectoriels](https://maths-france.fr/wp-content/uploads/02_revisions_espaces_vectoriels_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/02_revisions_espaces_vectoriels_planche_corriges.pdf) | algèbre : espaces vectoriels, applications linéaires, dimension |
@@ -204,10 +204,10 @@
 | ★★ | [Tirages dans une urne](http://alain.troesch.free.fr/ProblemesMPSI/prob094.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob094.pdf#page=2) | probas : urnes, moments, covariance |
 | ★★–★★★ | [Compléments probabilistes](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Complements%20probabilistes.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Complements%20probabilistes.pdf) | probas : variables aléatoires, moments |
 | ★★–★★★ | [Dénombrement](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Denombrement.pdf) · [corrigé zakito](corriges/046/corrige-zakito.pdf) | combinatoire : dénombrement |
-| ★★–★★★ | [Dénombrement](https://www.bourrigan.fr/data/td32-denombrement.pdf) · [indications](https://www.bourrigan.fr/data/td32-denombrement-indications.pdf) | combinatoire : comptage, combinaisons |
+| ★★–★★★ | [Dénombrement](https://www.bourrigan.fr/data/td32-denombrement.pdf) · [corrigé zakito](corriges/032/corrige-zakito.pdf) | combinatoire : comptage, combinaisons |
 | ★★–★★★ | [Ensembles dénombrables](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche_corriges.pdf) | ensembles : dénombrabilité |
 | ★★–★★★ | [Probabilités I](https://www.bourrigan.fr/data/td33-probabilites-I.pdf) · [indications](https://www.bourrigan.fr/data/td33-probabilites-I-indications.pdf) | probas : univers finis, conditionnement |
-| ★★–★★★ | [Probabilités II](https://www.bourrigan.fr/data/td34-probabilites-II.pdf) · [indications](https://www.bourrigan.fr/data/td34-probabilites-II-indications.pdf) | probas : espérance, variance, indicatrices |
+| ★★–★★★ | [Probabilités II](https://www.bourrigan.fr/data/td34-probabilites-II.pdf) · [corrigé zakito](corriges/034/corrige-zakito.pdf) | probas : espérance, variance, indicatrices |
 | ★★–★★★ | [Probabilités sur un univers fini](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Probabilites%20sur%20un%20univers%20fini.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Probabilites%20sur%20un%20univers%20fini.pdf) | probas : événements, univers finis |
 | ★★–★★★★ | [Dénombrement et probabilités](https://maths-france.fr/wp-content/uploads/17_denombrements_probabilites_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/17_denombrements_probabilites_planche_corriges.pdf) | probas : dénombrement, événements |
 | ★★★ | [Problème des ménages de Lucas](http://alain.troesch.free.fr/ProblemesMPSI/prob090.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob090.pdf#page=2) | combinatoire : placements circulaires, inclusion-exclusion |
@@ -225,7 +225,7 @@
 | ★★–★★★ | [Anneaux, corps](https://www.bourrigan.fr/data/td11-anneaux-corps.pdf) · [corrigé zakito](corriges/011/corrige-zakito.pdf) | algèbre : anneaux, corps |
 | ★★–★★★ | [Arithmétique](https://www.bourrigan.fr/data/td12-arithmetique.pdf) · [indications](https://www.bourrigan.fr/data/td12-arithmetique-indications.pdf) | arithmétique : divisibilité, congruences |
 | ★★–★★★ | [Arithmétique](https://maths-france.fr/wp-content/uploads/23_arithmetique_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/23_arithmetique_planche_corriges.pdf) | arithmétique : divisibilité, congruences |
-| ★★–★★★ | [Groupes](https://www.bourrigan.fr/data/td10-groupes.pdf) · [indications](https://www.bourrigan.fr/data/td10-groupes-indications.pdf) | algèbre : groupes, sous-groupes, morphismes |
+| ★★–★★★ | [Groupes](https://www.bourrigan.fr/data/td10-groupes.pdf) · [corrigé zakito](corriges/010/corrige-zakito.pdf) | algèbre : groupes, sous-groupes, morphismes |
 | ★★★ | [1, e et e²](http://alain.troesch.free.fr/ProblemesMPSI/prob048.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob048.pdf#page=2) | arithmétique : irrationalité, restes de séries |
 | ★★★ | [Constante de Liouville](http://alain.troesch.free.fr/ProblemesMPSI/prob049.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob049.pdf#page=2) | arithmétique : approximation rationnelle, transcendance |
 | ★★★ | [Dénombrement des polynômes irréductibles de Fₚ](http://alain.troesch.free.fr/ProblemesMPSI/prob043.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob043.pdf#page=2) | algèbre : corps finis, polynômes irréductibles |
