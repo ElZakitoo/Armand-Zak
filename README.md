@@ -43,7 +43,7 @@
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
 | ★★–★★★ | [Compléments sur les nombres réels](https://www.bourrigan.fr/data/td14-reels.pdf) · [indications](https://www.bourrigan.fr/data/td14-reels-indications.pdf) | analyse : réels, bornes |
-| ★★–★★★ | [Suites](https://www.bourrigan.fr/data/td15-suites.pdf) · [indications](https://www.bourrigan.fr/data/td15-suites-indications.pdf) | analyse : suites, convergence |
+| ★★–★★★ | [Suites](https://www.bourrigan.fr/data/td15-suites.pdf) · [corrigé zakito](corriges/015/corrige-zakito.pdf) | analyse : suites, convergence |
 | ★★★ | [Newton et méthode de la sécante](http://alain.troesch.free.fr/ProblemesMPSI/prob071.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob071.pdf#page=3) | analyse : Newton, sécante, vitesse de convergence |
 | ★★★ | [Équirépartition](http://alain.troesch.free.fr/ProblemesMPSI/prob046.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob046.pdf#page=2) | analyse : équirépartition, parties décimales |
 | ★★★ | [Autour de la suite de Fibonacci](http://alain.troesch.free.fr/ProblemesMPSI/prob085.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob085.pdf#page=2) | arithmétique : Fibonacci, décompositions d’entiers |
@@ -202,13 +202,13 @@
 |:---:|---|---|
 | ★★ | [Stratégie d’optimisation de gain](http://alain.troesch.free.fr/ProblemesMPSI/prob092.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob092.pdf#page=2) | probas : loi binomiale, espérance de gain |
 | ★★ | [Tirages dans une urne](http://alain.troesch.free.fr/ProblemesMPSI/prob094.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob094.pdf#page=2) | probas : urnes, moments, covariance |
-| ★★–★★★ | [Compléments probabilistes](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Complements%20probabilistes.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Complements%20probabilistes.pdf) | probas : variables aléatoires, moments |
+| ★★–★★★ | [Compléments probabilistes](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Complements%20probabilistes.pdf) · [corrigé zakito](corriges/049/corrige-zakito.pdf) | probas : variables aléatoires, moments |
 | ★★–★★★ | [Dénombrement](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Denombrement.pdf) · [corrigé zakito](corriges/046/corrige-zakito.pdf) | combinatoire : dénombrement |
 | ★★–★★★ | [Dénombrement](https://www.bourrigan.fr/data/td32-denombrement.pdf) · [corrigé zakito](corriges/032/corrige-zakito.pdf) | combinatoire : comptage, combinaisons |
 | ★★–★★★ | [Ensembles dénombrables](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche_corriges.pdf) | ensembles : dénombrabilité |
 | ★★–★★★ | [Probabilités I](https://www.bourrigan.fr/data/td33-probabilites-I.pdf) · [indications](https://www.bourrigan.fr/data/td33-probabilites-I-indications.pdf) | probas : univers finis, conditionnement |
 | ★★–★★★ | [Probabilités II](https://www.bourrigan.fr/data/td34-probabilites-II.pdf) · [corrigé zakito](corriges/034/corrige-zakito.pdf) | probas : espérance, variance, indicatrices |
-| ★★–★★★ | [Probabilités sur un univers fini](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Probabilites%20sur%20un%20univers%20fini.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Probabilites%20sur%20un%20univers%20fini.pdf) | probas : événements, univers finis |
+| ★★–★★★ | [Probabilités sur un univers fini](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Probabilites%20sur%20un%20univers%20fini.pdf) · [corrigé zakito](corriges/048/corrige-zakito.pdf) | probas : événements, univers finis |
 | ★★–★★★★ | [Dénombrement et probabilités](https://maths-france.fr/wp-content/uploads/17_denombrements_probabilites_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/17_denombrements_probabilites_planche_corriges.pdf) | probas : dénombrement, événements |
 | ★★★ | [Problème des ménages de Lucas](http://alain.troesch.free.fr/ProblemesMPSI/prob090.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob090.pdf#page=2) | combinatoire : placements circulaires, inclusion-exclusion |
 | ★★★ | [Nombres de Stirling](http://alain.troesch.free.fr/ProblemesMPSI/prob089.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob089.pdf#page=3) | combinatoire : partitions, cycles, nombres de Stirling |
