@@ -10,7 +10,7 @@
 | ★–★★ | [Logique](https://www.bourrigan.fr/data/td02-logique.pdf) · [corrigé zakito](corriges/002/corrige-zakito.pdf) | logique : quantificateurs, implications |
 | ★★ | [Itérations](http://christophebertault.fr/documents/dm/DM%20-%20Iterations.pdf) · [corrigé zakito](corriges/180/corrige-zakito.pdf) | ensembles : itérations d’applications |
 | ★★ | [Le problème de Joséphus](http://alain.troesch.free.fr/ProblemesMPSI/prob031.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob031.pdf#page=3) | combinatoire : récurrence, élimination circulaire |
-| ★★–★★★ | [Ensembles et applications](https://www.bourrigan.fr/data/td03-ensembles-applications.pdf) · [indications](https://www.bourrigan.fr/data/td03-ensembles-applications-indications.pdf) | ensembles : images, préimages, bijections |
+| ★★–★★★ | [Ensembles et applications](https://www.bourrigan.fr/data/td03-ensembles-applications.pdf) · [corrigé zakito](corriges/003/corrige-zakito.pdf) | ensembles : images, préimages, bijections |
 | ★★–★★★ | [Relations](https://www.bourrigan.fr/data/td09-relations.pdf) · [indications](https://www.bourrigan.fr/data/td09-relations-indications.pdf) | ensembles : relations d’ordre et d’équivalence |
 | ★★★ | [Images itérées](https://www.bourrigan.fr/data/dm03-images-iterees-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/dm03-images-iterees-corrige.pdf) | ensembles : itérations, images, préimages |
 | ★★★ | [Lemme de classe monotone](http://alain.troesch.free.fr/ProblemesMPSI/prob002.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob002.pdf#page=3) | ensembles : tribus, classes monotones, Dynkin |
@@ -115,7 +115,7 @@
 
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
-| ★★–★★★ | [Familles sommables](https://www.bourrigan.fr/data/td29-familles-sommables.pdf) · [indications](https://www.bourrigan.fr/data/td29-familles-sommables-indications.pdf) | analyse : sommabilité, sommes doubles |
+| ★★–★★★ | [Familles sommables](https://www.bourrigan.fr/data/td29-familles-sommables.pdf) · [corrigé zakito](corriges/029/corrige-zakito.pdf) | analyse : sommabilité, sommes doubles |
 | ★★–★★★ | [Familles sommables](https://maths-france.fr/wp-content/uploads/10_familles_sommables_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/10_familles_sommables_planche_corriges.pdf) | analyse : sommes doubles, sommation par paquets |
 | ★★–★★★ | [Séries](https://www.bourrigan.fr/data/td28-series.pdf) · [indications](https://www.bourrigan.fr/data/td28-series-indications.pdf) | analyse : séries, Abel, condensation |
 | ★★–★★★ | [Séries et familles sommables](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Series%20et%20familles%20sommables.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Series%20et%20familles%20sommables.pdf) | analyse : séries, familles sommables |
@@ -159,11 +159,11 @@
 
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
-| ★★–★★★ | [Applications linéaires](https://www.bourrigan.fr/data/td21-applications-lineaires.pdf) · [indications](https://www.bourrigan.fr/data/td21-applications-lineaires-indications.pdf) | algèbre : noyau, image |
-| ★★–★★★ | [Dimension](https://www.bourrigan.fr/data/td22-dimension.pdf) · [indications](https://www.bourrigan.fr/data/td22-dimension-indications.pdf) | algèbre : bases, dimension |
+| ★★–★★★ | [Applications linéaires](https://www.bourrigan.fr/data/td21-applications-lineaires.pdf) · [corrigé zakito](corriges/021/corrige-zakito.pdf) | algèbre : noyau, image |
+| ★★–★★★ | [Dimension](https://www.bourrigan.fr/data/td22-dimension.pdf) · [corrigé zakito](corriges/022/corrige-zakito.pdf) | algèbre : bases, dimension |
 | ★★–★★★ | [Espaces vectoriels](https://www.bourrigan.fr/data/td20-espaces-vectoriels.pdf) · [corrigé zakito](corriges/020/corrige-zakito.pdf) | algèbre : sous-espaces, familles de vecteurs |
 | ★★–★★★ | [Matrices](https://www.bourrigan.fr/data/td06-matrices.pdf) · [corrigé zakito](corriges/006/corrige-zakito.pdf) | algèbre : produits et puissances de matrices |
-| ★★–★★★ | [Représentation matricielle des applications linéaires](https://www.bourrigan.fr/data/td23-representation-matricielle.pdf) · [indications](https://www.bourrigan.fr/data/td23-representation-matricielle-indications.pdf) | algèbre : matrices d’applications linéaires |
+| ★★–★★★ | [Représentation matricielle des applications linéaires](https://www.bourrigan.fr/data/td23-representation-matricielle.pdf) · [corrigé zakito](corriges/023/corrige-zakito.pdf) | algèbre : matrices d’applications linéaires |
 | ★★–★★★ | [Révisions : espaces vectoriels](https://maths-france.fr/wp-content/uploads/02_revisions_espaces_vectoriels_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/02_revisions_espaces_vectoriels_planche_corriges.pdf) | algèbre : espaces vectoriels, applications linéaires, dimension |
 | ★★–★★★ | [Révisions : matrices](https://maths-france.fr/wp-content/uploads/03_revisions_matrices_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/03_revisions_matrices_planche_corriges.pdf) | algèbre : rang, changements de base |
 | ★★–★★★★ | [Systèmes linéaires et premières réductions](https://www.bourrigan.fr/data/td07-systemes-lineaires-reduction.pdf) · [indications](https://www.bourrigan.fr/data/td07-systemes-lineaires-reduction-indications.pdf) | algèbre : systèmes, similitude, diagonalisation |
@@ -206,7 +206,7 @@
 | ★★–★★★ | [Dénombrement](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Denombrement.pdf) · [corrigé zakito](corriges/046/corrige-zakito.pdf) | combinatoire : dénombrement |
 | ★★–★★★ | [Dénombrement](https://www.bourrigan.fr/data/td32-denombrement.pdf) · [corrigé zakito](corriges/032/corrige-zakito.pdf) | combinatoire : comptage, combinaisons |
 | ★★–★★★ | [Ensembles dénombrables](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche_corriges.pdf) | ensembles : dénombrabilité |
-| ★★–★★★ | [Probabilités I](https://www.bourrigan.fr/data/td33-probabilites-I.pdf) · [indications](https://www.bourrigan.fr/data/td33-probabilites-I-indications.pdf) | probas : univers finis, conditionnement |
+| ★★–★★★ | [Probabilités I](https://www.bourrigan.fr/data/td33-probabilites-I.pdf) · [corrigé zakito](corriges/033/corrige-zakito.pdf) | probas : univers finis, conditionnement |
 | ★★–★★★ | [Probabilités II](https://www.bourrigan.fr/data/td34-probabilites-II.pdf) · [corrigé zakito](corriges/034/corrige-zakito.pdf) | probas : espérance, variance, indicatrices |
 | ★★–★★★ | [Probabilités sur un univers fini](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Probabilites%20sur%20un%20univers%20fini.pdf) · [corrigé zakito](corriges/048/corrige-zakito.pdf) | probas : événements, univers finis |
 | ★★–★★★★ | [Dénombrement et probabilités](https://maths-france.fr/wp-content/uploads/17_denombrements_probabilites_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/17_denombrements_probabilites_planche_corriges.pdf) | probas : dénombrement, événements |
@@ -253,7 +253,7 @@
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
 | ★★–★★★ | [Fonctions de deux variables](https://www.bourrigan.fr/data/td35-deux-variables.pdf) · [corrigé zakito](corriges/035/corrige-zakito.pdf) | analyse : dérivées partielles |
-| ★★–★★★ | [Équations différentielles](https://www.bourrigan.fr/data/td27-equations-differentielles.pdf) · [indications](https://www.bourrigan.fr/data/td27-equations-differentielles-indications.pdf) | analyse : équations différentielles linéaires |
+| ★★–★★★ | [Équations différentielles](https://www.bourrigan.fr/data/td27-equations-differentielles.pdf) · [corrigé zakito](corriges/027/corrige-zakito.pdf) | analyse : équations différentielles linéaires |
 | ★★★ | [Équation de Loewner](http://alain.troesch.free.fr/ProblemesMPSI/prob068.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob068.pdf#page=5) | analyse : équation différentielle non linéaire, comparaison |
 | ★★★★–★★★★★ | [Fonctions de plusieurs variables](https://maths-france.fr/wp-content/uploads/22_fonctions_plusieurs_variables_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/22_fonctions_plusieurs_variables_planche_corriges.pdf) | analyse : fonctions de plusieurs variables |
 | ★★★★–★★★★★ | [Équations différentielles linéaires](https://maths-france.fr/wp-content/uploads/21_equations_differentielles_lineaires_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/21_equations_differentielles_lineaires_planche_corriges.pdf) | analyse : systèmes différentiels linéaires |
