@@ -22,7 +22,7 @@
 
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
-| ★–★★ | [Révisions calculatoires](https://www.bourrigan.fr/data/td01-calcul.pdf) · [indications](https://www.bourrigan.fr/data/td01-calcul-indications.pdf) | calcul : automatismes, identités, fractions |
+| ★–★★ | [Révisions calculatoires](https://www.bourrigan.fr/data/td01-calcul.pdf) · [corrigé zakito](corriges/001/corrige-zakito.md) | calcul : automatismes, identités, fractions |
 | ★★–★★★ | [Sommes et produits](https://www.bourrigan.fr/data/td04-sommes-produits.pdf) · [corrigé zakito](corriges/004/corrige-zakito.md) | calcul : sommes, produits, changements d’indice |
 | ★★★ | [Faulhaber : sommes de puissances](http://alain.troesch.free.fr/ProblemesMPSI/prob045.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob045.pdf#page=3) | calcul : sommes de puissances, polynômes |
 | ★★★ | [Inégalités de Shapiro](https://www.bourrigan.fr/data/dm01-inequations-shapiro-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/dm01-inequations-shapiro-corrige.pdf) | calcul : inégalités cycliques |
@@ -162,7 +162,7 @@
 | ★★–★★★ | [Applications linéaires](https://www.bourrigan.fr/data/td21-applications-lineaires.pdf) · [indications](https://www.bourrigan.fr/data/td21-applications-lineaires-indications.pdf) | algèbre : noyau, image |
 | ★★–★★★ | [Dimension](https://www.bourrigan.fr/data/td22-dimension.pdf) · [indications](https://www.bourrigan.fr/data/td22-dimension-indications.pdf) | algèbre : bases, dimension |
 | ★★–★★★ | [Espaces vectoriels](https://www.bourrigan.fr/data/td20-espaces-vectoriels.pdf) · [indications](https://www.bourrigan.fr/data/td20-espaces-vectoriels-indications.pdf) | algèbre : sous-espaces, familles de vecteurs |
-| ★★–★★★ | [Matrices](https://www.bourrigan.fr/data/td06-matrices.pdf) · [indications](https://www.bourrigan.fr/data/td06-matrices-indications.pdf) | algèbre : produits et puissances de matrices |
+| ★★–★★★ | [Matrices](https://www.bourrigan.fr/data/td06-matrices.pdf) · [corrigé zakito](corriges/006/corrige-zakito.md) | algèbre : produits et puissances de matrices |
 | ★★–★★★ | [Représentation matricielle des applications linéaires](https://www.bourrigan.fr/data/td23-representation-matricielle.pdf) · [indications](https://www.bourrigan.fr/data/td23-representation-matricielle-indications.pdf) | algèbre : matrices d’applications linéaires |
 | ★★–★★★ | [Révisions : espaces vectoriels](https://maths-france.fr/wp-content/uploads/02_revisions_espaces_vectoriels_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/02_revisions_espaces_vectoriels_planche_corriges.pdf) | algèbre : espaces vectoriels, applications linéaires, dimension |
 | ★★–★★★ | [Révisions : matrices](https://maths-france.fr/wp-content/uploads/03_revisions_matrices_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/03_revisions_matrices_planche_corriges.pdf) | algèbre : rang, changements de base |
@@ -203,7 +203,7 @@
 | ★★ | [Stratégie d’optimisation de gain](http://alain.troesch.free.fr/ProblemesMPSI/prob092.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob092.pdf#page=2) | probas : loi binomiale, espérance de gain |
 | ★★ | [Tirages dans une urne](http://alain.troesch.free.fr/ProblemesMPSI/prob094.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob094.pdf#page=2) | probas : urnes, moments, covariance |
 | ★★–★★★ | [Compléments probabilistes](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Complements%20probabilistes.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Complements%20probabilistes.pdf) | probas : variables aléatoires, moments |
-| ★★–★★★ | [Dénombrement](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Denombrement.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Denombrement.pdf) | combinatoire : dénombrement |
+| ★★–★★★ | [Dénombrement](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Denombrement.pdf) · [corrigé zakito](corriges/046/corrige-zakito.md) | combinatoire : dénombrement |
 | ★★–★★★ | [Dénombrement](https://www.bourrigan.fr/data/td32-denombrement.pdf) · [indications](https://www.bourrigan.fr/data/td32-denombrement-indications.pdf) | combinatoire : comptage, combinaisons |
 | ★★–★★★ | [Ensembles dénombrables](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/16_ensembles_denombrables_planche_corriges.pdf) | ensembles : dénombrabilité |
 | ★★–★★★ | [Probabilités I](https://www.bourrigan.fr/data/td33-probabilites-I.pdf) · [indications](https://www.bourrigan.fr/data/td33-probabilites-I-indications.pdf) | probas : univers finis, conditionnement |
@@ -222,7 +222,7 @@
 |:---:|---|---|
 | ★★ | [Fractions égyptiennes](http://alain.troesch.free.fr/ProblemesMPSI/prob047.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob047.pdf#page=2) | arithmétique : fractions unitaires, approximation |
 | ★★ | [Deux ou trois jolies idées sur les nombres premiers](http://christophebertault.fr/documents/dm/DM%20-%20Deux%20ou%20trois%20jolies%20idees%20sur%20les%20nombres%20premiers.pdf) · [corrigé zakito](corriges/181/corrige-zakito.md) | arithmétique : nombres premiers |
-| ★★–★★★ | [Anneaux, corps](https://www.bourrigan.fr/data/td11-anneaux-corps.pdf) · [indications](https://www.bourrigan.fr/data/td11-anneaux-corps-indications.pdf) | algèbre : anneaux, corps |
+| ★★–★★★ | [Anneaux, corps](https://www.bourrigan.fr/data/td11-anneaux-corps.pdf) · [corrigé zakito](corriges/011/corrige-zakito.md) | algèbre : anneaux, corps |
 | ★★–★★★ | [Arithmétique](https://www.bourrigan.fr/data/td12-arithmetique.pdf) · [indications](https://www.bourrigan.fr/data/td12-arithmetique-indications.pdf) | arithmétique : divisibilité, congruences |
 | ★★–★★★ | [Arithmétique](https://maths-france.fr/wp-content/uploads/23_arithmetique_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/23_arithmetique_planche_corriges.pdf) | arithmétique : divisibilité, congruences |
 | ★★–★★★ | [Groupes](https://www.bourrigan.fr/data/td10-groupes.pdf) · [indications](https://www.bourrigan.fr/data/td10-groupes-indications.pdf) | algèbre : groupes, sous-groupes, morphismes |
