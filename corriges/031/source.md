@@ -443,7 +443,7 @@ Alors $y_i\in H$, $\dim H=n$ et
 
 
 
-Transporter ces vecteurs par un isomorphisme isométrique $H\to E$ fournit les $x_i$ demandés. La dimension $n=0$ est exclue par les conditions de l'énoncé.
+Pour $n=0$, l'énoncé est faux : $E=\{0\}$ ne contient aucun vecteur unitaire. Pour $n\ge1$, transporter ces vecteurs par un isomorphisme isométrique $H\to E$ fournit les $x_i$ demandés.
 
 ## Exercice 14
 

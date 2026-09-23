@@ -11,7 +11,7 @@
 | ★★ | [Itérations](http://christophebertault.fr/documents/dm/DM%20-%20Iterations.pdf) · [corrigé zakito](corriges/180/corrige-zakito.pdf) | ensembles : itérations d’applications |
 | ★★ | [Le problème de Joséphus](http://alain.troesch.free.fr/ProblemesMPSI/prob031.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob031.pdf#page=3) | combinatoire : récurrence, élimination circulaire |
 | ★★–★★★ | [Ensembles et applications](https://www.bourrigan.fr/data/td03-ensembles-applications.pdf) · [corrigé zakito](corriges/003/corrige-zakito.pdf) | ensembles : images, préimages, bijections |
-| ★★–★★★ | [Relations](https://www.bourrigan.fr/data/td09-relations.pdf) · [indications](https://www.bourrigan.fr/data/td09-relations-indications.pdf) | ensembles : relations d’ordre et d’équivalence |
+| ★★–★★★ | [Relations](https://www.bourrigan.fr/data/td09-relations.pdf) · [corrigé zakito](corriges/009/corrige-zakito.pdf) | ensembles : relations d’ordre et d’équivalence |
 | ★★★ | [Images itérées](https://www.bourrigan.fr/data/dm03-images-iterees-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/dm03-images-iterees-corrige.pdf) | ensembles : itérations, images, préimages |
 | ★★★ | [Lemme de classe monotone](http://alain.troesch.free.fr/ProblemesMPSI/prob002.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob002.pdf#page=3) | ensembles : tribus, classes monotones, Dynkin |
 | ★★★ | [Principe d’induction structurelle](http://alain.troesch.free.fr/ProblemesMPSI/prob008.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob008.pdf#page=2) | logique : induction structurelle, fermeture |
@@ -33,7 +33,7 @@
 |:---:|---|---|
 | ★★ | [Calcul de cos(π/17)](http://alain.troesch.free.fr/ProblemesMPSI/prob018.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob018.pdf#page=2) | complexes : trigonométrie, calcul par radicaux |
 | ★★ | [Formule de Machin](http://alain.troesch.free.fr/ProblemesMPSI/prob021.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob021.pdf#page=2) | analyse : arctan, approximation de π |
-| ★★–★★★ | [Nombres complexes](https://www.bourrigan.fr/data/td05-complexes.pdf) · [indications](https://www.bourrigan.fr/data/td05-complexes-indications.pdf) | complexes : module, argument, racines |
+| ★★–★★★ | [Nombres complexes](https://www.bourrigan.fr/data/td05-complexes.pdf) · [corrigé zakito](corriges/005/corrige-zakito.pdf) | complexes : module, argument, racines |
 | ★★★ | [Cardan et Ferrari](http://alain.troesch.free.fr/ProblemesMPSI/prob020.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob020.pdf#page=3) | algèbre : équations de degrés 3 et 4 |
 | ★★★ | [Racines primitives et polynômes cyclotomiques](http://alain.troesch.free.fr/ProblemesMPSI/prob019.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob019.pdf#page=3) | algèbre : racines de l’unité, cyclotomie |
 | ★★★★★ | [Sommes de Gauss](https://www.bourrigan.fr/data/ds02-sommes-gauss-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/ds02-sommes-gauss-corrige.pdf) | complexes : sommes de Gauss, racines de l’unité |
@@ -42,7 +42,7 @@
 
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
-| ★★–★★★ | [Compléments sur les nombres réels](https://www.bourrigan.fr/data/td14-reels.pdf) · [indications](https://www.bourrigan.fr/data/td14-reels-indications.pdf) | analyse : réels, bornes |
+| ★★–★★★ | [Compléments sur les nombres réels](https://www.bourrigan.fr/data/td14-reels.pdf) · [corrigé zakito](corriges/014/corrige-zakito.pdf) | analyse : réels, bornes |
 | ★★–★★★ | [Suites](https://www.bourrigan.fr/data/td15-suites.pdf) · [corrigé zakito](corriges/015/corrige-zakito.pdf) | analyse : suites, convergence |
 | ★★★ | [Newton et méthode de la sécante](http://alain.troesch.free.fr/ProblemesMPSI/prob071.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob071.pdf#page=3) | analyse : Newton, sécante, vitesse de convergence |
 | ★★★ | [Équirépartition](http://alain.troesch.free.fr/ProblemesMPSI/prob046.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob046.pdf#page=2) | analyse : équirépartition, parties décimales |
@@ -58,9 +58,9 @@
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
 | ★★ | [La série exponentielle](http://alain.troesch.free.fr/ProblemesMPSI/prob067.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob067.pdf#page=2) | analyse : exponentielle, encadrement de sommes |
-| ★★–★★★ | [Dérivation](https://www.bourrigan.fr/data/td17-derivation.pdf) · [indications](https://www.bourrigan.fr/data/td17-derivation-indications.pdf) | analyse : dérivées, accroissements finis |
+| ★★–★★★ | [Dérivation](https://www.bourrigan.fr/data/td17-derivation.pdf) · [corrigé zakito](corriges/017/corrige-zakito.pdf) | analyse : dérivées, accroissements finis |
 | ★★–★★★ | [Fonctions convexes](https://www.bourrigan.fr/data/td18-fonctions-convexes.pdf) · [corrigé zakito](corriges/018/corrige-zakito.pdf) | analyse : convexité, inégalités |
-| ★★–★★★ | [Fonctions réelles](https://www.bourrigan.fr/data/td08-fonctions-reelles.pdf) · [indications](https://www.bourrigan.fr/data/td08-fonctions-reelles-indications.pdf) | analyse : variations, fonctions usuelles |
+| ★★–★★★ | [Fonctions réelles](https://www.bourrigan.fr/data/td08-fonctions-reelles.pdf) · [corrigé zakito](corriges/008/corrige-zakito.pdf) | analyse : variations, fonctions usuelles |
 | ★★–★★★ | [Limites, continuité](https://www.bourrigan.fr/data/td16-limites-continuite.pdf) · [corrigé zakito](corriges/016/corrige-zakito.pdf) | analyse : limites, continuité |
 | ★★★ | [Fonction de Weierstrass](http://alain.troesch.free.fr/ProblemesMPSI/prob059.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob059.pdf#page=2) | analyse : continuité sans dérivabilité |
 | ★★★ | [Une variante de la fonction de Bolzano](http://alain.troesch.free.fr/ProblemesMPSI/prob060.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob060.pdf#page=2) | analyse : fonctions affines par morceaux, non-dérivabilité |
@@ -77,7 +77,7 @@
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
 | ★★ | [Formule de Stirling](http://alain.troesch.free.fr/ProblemesMPSI/prob087.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob087.pdf#page=1) | analyse : Wallis, équivalent de n! |
-| ★★–★★★ | [Analyse asymptotique](https://www.bourrigan.fr/data/td19-analyse-asymptotique.pdf) · [indications](https://www.bourrigan.fr/data/td19-analyse-asymptotique-indications.pdf) | analyse : équivalents, développements limités |
+| ★★–★★★ | [Analyse asymptotique](https://www.bourrigan.fr/data/td19-analyse-asymptotique.pdf) · [corrigé zakito](corriges/019/corrige-zakito.pdf) | analyse : équivalents, développements limités |
 | ★★★ | [Deux développements asymptotiques](https://www.bourrigan.fr/data/dm16-analyse-asymptotique-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/dm16-analyse-asymptotique-corrige.pdf) | analyse : asymptotique, Catalan, matrices unipotentes |
 | ★★★ | [Nombres de Bernoulli et DL de tan](http://alain.troesch.free.fr/ProblemesMPSI/prob062.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob062.pdf#page=3) | analyse : Bernoulli, DL de tan |
 
@@ -88,7 +88,7 @@
 | ★★ | [Calcul approché de π](http://alain.troesch.free.fr/ProblemesMPSI/prob072.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob072.pdf#page=2) | analyse : intégrales, approximation de π |
 | ★★ | [Calcul d’une famille d’intégrales](http://alain.troesch.free.fr/ProblemesMPSI/prob073.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob073.pdf#page=2) | analyse : intégrales rationnelles, récurrences |
 | ★★ | [Intégrales de Wallis (fiche)](https://maths-france.fr/wp-content/uploads/integrales_de_wallis_fiche.pdf) | analyse : intégrales de Wallis, équivalents |
-| ★★–★★★ | [Intégration](https://www.bourrigan.fr/data/td26-integration.pdf) · [indications](https://www.bourrigan.fr/data/td26-integration-indications.pdf) | analyse : intégrales, changements de variable |
+| ★★–★★★ | [Intégration](https://www.bourrigan.fr/data/td26-integration.pdf) · [corrigé zakito](corriges/026/corrige-zakito.pdf) | analyse : intégrales, changements de variable |
 | ★★★ | [Calcul de l’intégrale de Dirichlet](http://alain.troesch.free.fr/ProblemesMPSI/prob078.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob078.pdf#page=2) | analyse : intégrale oscillante, convergence |
 | ★★★ | [Fonctions réglées et intégration de Riemann](http://alain.troesch.free.fr/ProblemesMPSI/prob075.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob075.pdf#page=2) | analyse : fonctions réglées, intégration de Riemann |
 | ★★★ | [Formule des trois niveaux (fiche)](https://maths-france.fr/wp-content/uploads/formule_des_trois_niveaux_fiche.pdf) | analyse : interpolation, quadrature |
@@ -117,8 +117,8 @@
 |:---:|---|---|
 | ★★–★★★ | [Familles sommables](https://www.bourrigan.fr/data/td29-familles-sommables.pdf) · [corrigé zakito](corriges/029/corrige-zakito.pdf) | analyse : sommabilité, sommes doubles |
 | ★★–★★★ | [Familles sommables](https://maths-france.fr/wp-content/uploads/10_familles_sommables_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/10_familles_sommables_planche_corriges.pdf) | analyse : sommes doubles, sommation par paquets |
-| ★★–★★★ | [Séries](https://www.bourrigan.fr/data/td28-series.pdf) · [indications](https://www.bourrigan.fr/data/td28-series-indications.pdf) | analyse : séries, Abel, condensation |
-| ★★–★★★ | [Séries et familles sommables](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Series%20et%20familles%20sommables.pdf) · [indications](https://christophebertault.fr/documents/coursetexercices/Exercices%20indications%20-%20Series%20et%20familles%20sommables.pdf) | analyse : séries, familles sommables |
+| ★★–★★★ | [Séries](https://www.bourrigan.fr/data/td28-series.pdf) · [corrigé zakito](corriges/028/corrige-zakito.pdf) | analyse : séries, Abel, condensation |
+| ★★–★★★ | [Séries et familles sommables](https://christophebertault.fr/documents/coursetexercices/Exercices%20-%20Series%20et%20familles%20sommables.pdf) · [corrigé zakito](corriges/047/corrige-zakito.pdf) | analyse : séries, familles sommables |
 | ★★★★ | [Série harmonique et constante d’Euler (fiche)](https://maths-france.fr/wp-content/uploads/serie_harmonique_fiche.pdf) | analyse : série harmonique, constante d’Euler |
 | ★★★★ | [Séries entières — ESIM 1992, maths 1, problème 1](https://maths-france.fr/wp-content/uploads/ESIM_1992_M_M1_Pb1_enonce.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/ESIM_1992_M_M1_Pb1_corrige.pdf) | analyse : séries entières, convergence au bord |
 | ★★★★ | [Bernstein et Weierstrass (fiche)](https://maths-france.fr/wp-content/uploads/polynomes_bernstein_fiche.pdf) | analyse : Bernstein, approximation uniforme |
@@ -223,7 +223,7 @@
 | ★★ | [Fractions égyptiennes](http://alain.troesch.free.fr/ProblemesMPSI/prob047.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob047.pdf#page=2) | arithmétique : fractions unitaires, approximation |
 | ★★ | [Deux ou trois jolies idées sur les nombres premiers](http://christophebertault.fr/documents/dm/DM%20-%20Deux%20ou%20trois%20jolies%20idees%20sur%20les%20nombres%20premiers.pdf) · [corrigé zakito](corriges/181/corrige-zakito.pdf) | arithmétique : nombres premiers |
 | ★★–★★★ | [Anneaux, corps](https://www.bourrigan.fr/data/td11-anneaux-corps.pdf) · [corrigé zakito](corriges/011/corrige-zakito.pdf) | algèbre : anneaux, corps |
-| ★★–★★★ | [Arithmétique](https://www.bourrigan.fr/data/td12-arithmetique.pdf) · [indications](https://www.bourrigan.fr/data/td12-arithmetique-indications.pdf) | arithmétique : divisibilité, congruences |
+| ★★–★★★ | [Arithmétique](https://www.bourrigan.fr/data/td12-arithmetique.pdf) · [corrigé zakito](corriges/012/corrige-zakito.pdf) | arithmétique : divisibilité, congruences |
 | ★★–★★★ | [Arithmétique](https://maths-france.fr/wp-content/uploads/23_arithmetique_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/23_arithmetique_planche_corriges.pdf) | arithmétique : divisibilité, congruences |
 | ★★–★★★ | [Groupes](https://www.bourrigan.fr/data/td10-groupes.pdf) · [corrigé zakito](corriges/010/corrige-zakito.pdf) | algèbre : groupes, sous-groupes, morphismes |
 | ★★★ | [1, e et e²](http://alain.troesch.free.fr/ProblemesMPSI/prob048.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob048.pdf#page=2) | arithmétique : irrationalité, restes de séries |
