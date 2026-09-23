@@ -61,7 +61,7 @@
 | ★★–★★★ | [Dérivation](https://www.bourrigan.fr/data/td17-derivation.pdf) · [indications](https://www.bourrigan.fr/data/td17-derivation-indications.pdf) | analyse : dérivées, accroissements finis |
 | ★★–★★★ | [Fonctions convexes](https://www.bourrigan.fr/data/td18-fonctions-convexes.pdf) · [corrigé zakito](corriges/018/corrige-zakito.pdf) | analyse : convexité, inégalités |
 | ★★–★★★ | [Fonctions réelles](https://www.bourrigan.fr/data/td08-fonctions-reelles.pdf) · [indications](https://www.bourrigan.fr/data/td08-fonctions-reelles-indications.pdf) | analyse : variations, fonctions usuelles |
-| ★★–★★★ | [Limites, continuité](https://www.bourrigan.fr/data/td16-limites-continuite.pdf) · [indications](https://www.bourrigan.fr/data/td16-limites-continuite-indications.pdf) | analyse : limites, continuité |
+| ★★–★★★ | [Limites, continuité](https://www.bourrigan.fr/data/td16-limites-continuite.pdf) · [corrigé zakito](corriges/016/corrige-zakito.pdf) | analyse : limites, continuité |
 | ★★★ | [Fonction de Weierstrass](http://alain.troesch.free.fr/ProblemesMPSI/prob059.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob059.pdf#page=2) | analyse : continuité sans dérivabilité |
 | ★★★ | [Une variante de la fonction de Bolzano](http://alain.troesch.free.fr/ProblemesMPSI/prob060.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob060.pdf#page=2) | analyse : fonctions affines par morceaux, non-dérivabilité |
 | ★★★ | [Fonctions absolument et complètement monotones](http://alain.troesch.free.fr/ProblemesMPSI/prob070.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob070.pdf#page=3) | analyse : dérivées successives, monotonie |
@@ -140,7 +140,7 @@
 | ★★ | [Polynômes de Lagrange (fiche)](https://maths-france.fr/wp-content/uploads/polynomes_lagrange_fiche.pdf) | algèbre : interpolation de Lagrange |
 | ★★–★★★ | [Arithmétique des polynômes](https://www.bourrigan.fr/data/td24-arithmetique-polynomes.pdf) · [corrigé zakito](corriges/024/corrige-zakito.pdf) | algèbre : divisibilité des polynômes |
 | ★★–★★★ | [Fractions rationnelles](https://www.bourrigan.fr/data/td25-fractions-rationnelles.pdf) · [corrigé zakito](corriges/025/corrige-zakito.pdf) | algèbre : fractions rationnelles, éléments simples |
-| ★★–★★★ | [Polynômes](https://www.bourrigan.fr/data/td13-polynomes.pdf) · [indications](https://www.bourrigan.fr/data/td13-polynomes-indications.pdf) | algèbre : polynômes, racines |
+| ★★–★★★ | [Polynômes](https://www.bourrigan.fr/data/td13-polynomes.pdf) · [corrigé zakito](corriges/013/corrige-zakito.pdf) | algèbre : polynômes, racines |
 | ★★★ | [Polynômes de Tchebychev (fiche)](https://maths-france.fr/wp-content/uploads/polynomes_tchebychev_fiche.pdf) | algèbre : Tchebychev, récurrences |
 | ★★★ | [Polynômes de Bernoulli](https://www.bourrigan.fr/data/dm12-bernoulli-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/dm12-bernoulli-corrige.pdf) | algèbre : Bernoulli, sommes de puissances |
 | ★★★ | [Polynômes de Tchebychev](https://www.bourrigan.fr/data/dm11-cebysev-sujet.pdf) · [corrigé](https://www.bourrigan.fr/data/dm11-cebysev-corrige.pdf) | algèbre : Tchebychev, récurrences, racines |
@@ -186,8 +186,8 @@
 
 | Niveau | Sujet | À bosser |
 |:---:|---|---|
-| ★★–★★★ | [Déterminants](https://www.bourrigan.fr/data/td30-determinants.pdf) · [indications](https://www.bourrigan.fr/data/td30-determinants-indications.pdf) | algèbre : calculs de déterminants |
-| ★★–★★★ | [Espaces euclidiens](https://www.bourrigan.fr/data/td31-espaces-euclidiens.pdf) · [indications](https://www.bourrigan.fr/data/td31-espaces-euclidiens-indications.pdf) | algèbre : produit scalaire, orthogonalité |
+| ★★–★★★ | [Déterminants](https://www.bourrigan.fr/data/td30-determinants.pdf) · [corrigé zakito](corriges/030/corrige-zakito.pdf) | algèbre : calculs de déterminants |
+| ★★–★★★ | [Espaces euclidiens](https://www.bourrigan.fr/data/td31-espaces-euclidiens.pdf) · [corrigé zakito](corriges/031/corrige-zakito.pdf) | algèbre : produit scalaire, orthogonalité |
 | ★★–★★★ | [Révisions : déterminants](https://maths-france.fr/wp-content/uploads/04_revisions_determinants_planche.pdf) · [corrigé](https://maths-france.fr/wp-content/uploads/04_revisions_determinants_planche_corriges.pdf) | algèbre : déterminants |
 | ★★★ | [Résultant de deux polynômes](http://alain.troesch.free.fr/ProblemesMPSI/prob034.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob034.pdf#page=2) | algèbre : résultant, racines communes, déterminants |
 | ★★★ | [Algorithme de Lewis Carroll](http://alain.troesch.free.fr/ProblemesMPSI/prob035.pdf) · [corrigé](http://alain.troesch.free.fr/ProblemesMPSI/prob035.pdf#page=3) | algèbre : déterminants, condensation |
